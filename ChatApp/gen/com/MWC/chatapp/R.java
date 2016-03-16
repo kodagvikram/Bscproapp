@@ -81,8 +81,6 @@ containing a value of this type.
         public static final int submitmatchup=0x7f02001f;
         public static final int success=0x7f020020;
         public static final int transparentimageicon=0x7f020021;
-        public static final int wheel_bg=0x7f020022;
-        public static final int wheel_val=0x7f020023;
     }
     public static final class id {
         public static final int AGENTDYNAMICLAYOUT=0x7f09003d;
